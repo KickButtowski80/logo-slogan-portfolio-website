@@ -8,7 +8,7 @@
 #svg_4{
   stroke-dasharray: 1000;
   stroke-dashoffset: 1000;
-  animation: dash 20s linear alternate infinite;
+  animation: dash 25s linear alternate infinite;
   font-weight: 900;
   text-transform: capitalize;
  
@@ -17,7 +17,7 @@
 #svg_5{
  stroke-dasharray: 1000;
   stroke-dashoffset: 1000;
-  animation: dash5 15s ease-in alternate infinite;
+  animation: dash5 35s ease-in alternate infinite;
   font-weight: 900;
   fill: #ffff;
 }
